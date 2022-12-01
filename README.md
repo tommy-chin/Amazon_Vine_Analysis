@@ -4,7 +4,7 @@ A client company named SellBy was interested in selling their products through A
 ## Results
 This analysis aimed to answer the following questions:
 ### How many vine reviews and non-Vine reviews were there?
-
+![number of vine reviews.PNG](https://github.com/tommy-chin/Amazon_Vine_Analysis/blob/main/Images/number%20of%20vine%20reviews.PNG)
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 ## Summary
