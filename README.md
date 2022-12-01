@@ -4,6 +4,7 @@ A client company named SellBy was interested in selling their products through A
 ## Results
 This analysis aimed to answer the following questions:
 ### How many vine reviews and non-Vine reviews were there?
+As seen in the image below, out of the total number of 40,565 reviews, 94 were vine members and 40,471 were not vine members.
 ![number of vine reviews.PNG](https://github.com/tommy-chin/Amazon_Vine_Analysis/blob/main/Images/number%20of%20vine%20reviews.PNG)
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 ![number of 5 stars.PNG](https://github.com/tommy-chin/Amazon_Vine_Analysis/blob/main/Images/number%20of%205%20stars.PNG)
